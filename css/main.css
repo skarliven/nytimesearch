@@ -1,0 +1,63 @@
+body {
+    background: url(https://vectortoons.com/wp-content/uploads/2016/04/new-york-times-square-during-the-day-background.jpg);   background-size: cover;
+   font-family: 'Anton', sans-serif;
+   background-size: cover;
+   width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+form {
+    padding-top: 100px;
+}
+
+section {
+    padding-top: 15px;
+    padding-bottom: 70px;
+
+}
+
+#nav-pane {
+    overflow: hidden;
+    background-color: #9f15ca63;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 19px;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+
+h4 {
+    color: rgb(93, 93, 226);
+    font-style: italic;
+}
+
+
+img {
+    width: 50%;
+    height: 25%;
+
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    text-align: center;
+}
